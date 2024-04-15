@@ -1,3 +1,4 @@
+Came to this repo by the link [Formerly Partysmith](https://community.aws/content/2b40sobzGjCjWy9oUjtygY5McjU/partysmith?lang=en)
 # GenStack
 
 GenStack transforms your AWS PartyRock apps into deployable full-stack SvelteKit applications.
